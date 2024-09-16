@@ -16,7 +16,7 @@ const deleteMusic = async (req,res) =>{
         if(ObjectId.isValid(req.params.id)){
             const id = req.params.id
             musicService.Delete(id)
-            res.sendStatus(204)
+            res.status(200).json({ message: "Deletado com sucesso!"})
         }else{
             res.sendStatus(400)
         }
