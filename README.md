@@ -61,7 +61,7 @@ Retorna a listagem de todas as músicas cadastradas no banco de dados.
     **Exemplo:**
     ```json
     {
-        "error": "Erro interno do servi dor!"
+        "error": "Erro interno do servidor!"
     }
     ```
 ---
