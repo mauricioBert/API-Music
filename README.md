@@ -29,7 +29,7 @@ Retorna a listagem de todas as músicas cadastradas no banco de dados.
         "content": [
           {
             "length": "4:39",
-            "lyrics": "She eyes me like a Pisces when I am weak,i've been locked inside your heart-shaped box for weeks. I've been drawn into your magnet tar pit trap, wish I could eat 		      your cancer when you turn black! Hey, wait! I got a new complaint. Forever in debt to your priceless advice.  Hey, Wait! I got a new complaint. Forever in debt to 		      your priceless advice... Your advice",
+            "lyrics": "She eyes me like a Pisces when I am weak,i've been locked inside your heart-shaped box for weeks. I've been drawn into your magnet tar pit trap, wish I could eat your cancer when you turn black! Hey, wait! I got a new complaint. Forever in debt to your priceless advice.  Hey, Wait! I got a new complaint. Forever in debt to your priceless advice... Your advice",
             "language": "English",
             "cover": "https://upload.wikimedia.org/wikipedia/pt/b/b4/InUtero.jpeg",
         ],
@@ -44,20 +44,7 @@ Retorna a listagem de todas as músicas cadastradas no banco de dados.
         "content": [
           {
             "length": "3:23",
-            "lyrics": "If you wanna run away with me, 
-            I know a galaxy and I can take you for a ride. 
-            I had a premonition that we fell into a rhythm 
-            Where the music don't stop for life. 
-            Glitter in the sky, glitter in my eyes, 
-            shining just the way I like! If you're feeling like you need a little bit of company, 
-            you met me at the perfect time. 
-            You want me, I want you, baby, 
-            My sugarboo, I'm levitating, 
-            the Milky Way, we're renegading, 
-            yeah, yeah, yeah, yeah, yeah.. 
-            I got you, moonlight, you're my starlight. 
-            I need you all night, come on, dance with me. 
-            I'm levitating!",
+            "lyrics": "If you wanna run away with me, I know a galaxy and I can take you for a ride. I had a premonition that we fell into a rhythm Where the music don't stop for life. Glitter in the sky, glitter in my eyes, shining just the way I like! If you're feeling like you need a little bit of company, you met me at the perfect time. You want me, I want you, baby, My sugarboo, I'm levitating, the Milky Way, we're renegading, yeah, yeah, yeah, yeah, yeah.. I got you, moonlight, you're my starlight. I need you all night, come on, dance with me. I'm levitating!",
             "language": "English",
             "cover": "https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f",
             "Style": "Pop",
