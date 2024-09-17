@@ -52,7 +52,6 @@ Retorna a listagem de todas as músicas cadastradas no banco de dados.
           }],
         "__v": 0
       }
-    ]
   }
 
 
