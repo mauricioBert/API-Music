@@ -62,8 +62,7 @@ Retorna a listagem de todas as músicas cadastradas no banco de dados.
             "cover": "https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f",
             "Style": "Pop",
             "_id": "66e87e49ba6fa95a2b2ac0b1"
-          }
-        ],
+          }],
         "__v": 0
       }
     ]
@@ -100,15 +99,7 @@ Cadastra uma nova música no banco de dados.
             "content": [
                 {
                 "length":"4:39",
-        "lyrics": "She eyes me like a Pisces when I am weak,
-                i've been locked inside your heart-shaped box for weeks. 
-                I've been drawn into your magnet tar pit trap, 
-                wish I could eat your cancer when you turn black! 
-                Hey, wait! I got a new complaint. 
-                Forever in debt to your priceless advice. 
-                Hey, Wait! I got a new complaint. 
-                Forever in debt to your priceless advice... 
-                Your advice",
+        "lyrics": "She eyes me like a Pisces when I am weak, i've been locked inside your heart-shaped box for weeks.I've been drawn into your magnet tar pit trap,wish I could eat your cancer when you turn black!Hey, wait! I got a new complaint.Forever in debt to your priceless advice.Hey, Wait! I got a new complaint.Forever in debt to your priceless advice...Your advice",
         "language":"English",
         "cover":"https://upload.wikimedia.org/wikipedia/pt/b/b4/InUtero.jpeg",
         "Style":"Grunge Rock"
